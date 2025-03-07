@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "first_sections",
+  "info": {
+    "singularName": "first-section",
+    "pluralName": "first-sections",
+    "displayName": "First-Section",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "FirstSecCard": {
+      "type": "json"
+    }
+  }
+}

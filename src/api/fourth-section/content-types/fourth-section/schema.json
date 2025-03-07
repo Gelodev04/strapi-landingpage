@@ -1,0 +1,51 @@
+{
+  "kind": "singleType",
+  "collectionName": "fourth_sections",
+  "info": {
+    "singularName": "fourth-section",
+    "pluralName": "fourth-sections",
+    "displayName": "FourthSection",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "h1text": {
+      "type": "string"
+    },
+    "features": {
+      "type": "json"
+    },
+    "img1": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "img2": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "img3": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

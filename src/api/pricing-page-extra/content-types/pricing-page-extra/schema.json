@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "pricing_page_extras",
+  "info": {
+    "singularName": "pricing-page-extra",
+    "pluralName": "pricing-page-extras",
+    "displayName": "Pricing_Page_Extra"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "FirstText": {
+      "type": "string"
+    },
+    "h1text": {
+      "type": "string"
+    },
+    "workers_wallet": {
+      "type": "json"
+    }
+  }
+}

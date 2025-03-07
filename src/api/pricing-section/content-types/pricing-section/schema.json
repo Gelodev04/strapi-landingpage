@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "pricing_sections",
+  "info": {
+    "singularName": "pricing-section",
+    "pluralName": "pricing-sections",
+    "displayName": "pricing-section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "card": {
+      "type": "json"
+    }
+  }
+}

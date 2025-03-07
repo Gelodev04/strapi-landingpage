@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "third_sections",
+  "info": {
+    "singularName": "third-section",
+    "pluralName": "third-sections",
+    "displayName": "ThirdSection",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "h1text": {
+      "type": "string"
+    },
+    "h2text": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "feedbackCard": {
+      "type": "json"
+    }
+  }
+}
