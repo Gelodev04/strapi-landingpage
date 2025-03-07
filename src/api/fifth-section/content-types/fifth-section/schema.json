@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "fifth_sections",
+  "info": {
+    "singularName": "fifth-section",
+    "pluralName": "fifth-sections",
+    "displayName": "Fifth_Section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "card": {
+      "type": "json"
+    }
+  }
+}

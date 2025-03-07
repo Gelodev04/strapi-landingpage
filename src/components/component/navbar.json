@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_component_navbars",
+  "info": {
+    "displayName": "Navbar"
+  },
+  "options": {},
+  "attributes": {
+    "Test": {
+      "type": "string"
+    }
+  }
+}

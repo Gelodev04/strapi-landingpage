@@ -1,0 +1,34 @@
+{
+  "kind": "singleType",
+  "collectionName": "second_sections",
+  "info": {
+    "singularName": "second-section",
+    "pluralName": "second-sections",
+    "displayName": "SecondSection",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "h1text": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "choices": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
